@@ -1,4 +1,5 @@
-User details added to seeder
+User details added to seeder ->
+
 php artisan db:seed
 
 
